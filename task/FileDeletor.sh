@@ -1,7 +1,7 @@
 #!/bin/bash
 
-logPath="/Users/hoonoh/workspace/henry/shell-script/logs"
 path=$1
+logPath=$2
 
 echo "PATH : " ${path}
 echo "LOG_PATH : " ${logPath}
